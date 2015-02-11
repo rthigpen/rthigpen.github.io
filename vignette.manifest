@@ -1,12 +1,11 @@
 CACHE MANIFEST
 
 # This is a comment.
-# Cache manifest version 0.0.10
+# Cache manifest version 0.0.11
 # Change the version number to force refresh of manifest and linked assets3
 
 v1_flashcc_canvass_03.js 
 v1_flashcc_canvass_03.svg 
-sounds/audio.mp3
 sounds/line1.mp3 
 sounds/line2.mp3 
 sounds/line3.mp3  
