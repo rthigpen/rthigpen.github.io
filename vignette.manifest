@@ -1,20 +1,22 @@
 CACHE MANIFEST
-# This is a comment.
-# Cache manifest version 0.0.15
+
+# This is a comment
+# Cache manifest version 0.0.16
 # Change the version number to force refresh of manifest and linked assets
-v1_flashcc_canvass_03.svg 
-v1_flashcc_canvass_03.js 
-createjs/easeljs-0.7.1.min.js 
-createjs/tweenjs-0.5.1.min.js 
-createjs/movieclip-0.7.1.min.js 
-createjs/preloadjs-0.4.1.min.js 
-createjs/soundjs-0.5.2.min.js 
+
+v1_flashcc_canvass_03.svg
+v1_flashcc_canvass_03.js
+
+createjs/easeljs-0.7.1.min.js
+createjs/tweenjs-0.5.1.min.js
+createjs/movieclip-0.7.1.min.js
+createjs/preloadjs-0.4.1.min.js
+createjs/soundjs-0.5.2.min.js
+
 sounds/line1.mp3 
 sounds/line2.mp3 
 sounds/line3.mp3 
 sounds/line4.mp3 
 sounds/line5.mp3 
 sounds/line6.mp3 
-sounds/line7.mp3 
-NETWORK
-http://rthigpen.github.io/
+sounds/line7.mp3
