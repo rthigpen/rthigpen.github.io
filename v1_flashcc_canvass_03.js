@@ -19,11 +19,7 @@ lib.properties = {
 	]
 };
 
-
-
 // symbols:
-
-
 
 (lib.Tween15 = function() {
 	this.initialize();
